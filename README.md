@@ -9,4 +9,4 @@ In the task, we will have several training data that consist of information such
 
 With the information, we need to identify whether this twitter can reflect a disaster or not. In the task, we will need to achieve higher accuracy with the testing data of the above information.
 
-[Link to Slides](https://docs.google.com/presentation/d/1Ray4WhzMVmDYkc890MHWHUGFlhoDabk4A3bkGwot0wk/edit#slide=id.p)
+[Link to Slides](https://docs.google.com/presentation/d/1Ray4WhzMVmDYkc890MHWHUGFlhoDabk4A3bkGwot0wk/edit?usp=sharing)
