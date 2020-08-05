@@ -5,7 +5,7 @@ Twitter is one of the most important social networks that can even be an importa
 
 In the task, we will have several training data that consist of information such as keyword, location, and tweet text. For example, 
 | **keyword**        | **location**        | **tweet text**  |
-|:-------------:|:-------------:|:-----:|
+|:-------------:|:-------------:| ----- |
 | aftershock      | Oshawa, Canada | #WisdomWed BONUS - 5 Minute Daily Habits that could really improve your life. How many do you already do? #lifehacks http://t.co/TBm9FQb8cW |
 
 With the information, we need to identify whether this twitter can reflect a disaster or not. In the task, we will need to achieve higher accuracy with the testing data of the above information.
